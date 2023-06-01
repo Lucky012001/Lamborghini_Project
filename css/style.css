@@ -1,0 +1,553 @@
+* {
+    margin: 0px;
+    height: 0px;
+}
+
+/* Start Header Css */
+.header_bar {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin-top: 0px;
+}
+
+.header_logo {
+    height: 70px;
+    width: 70px;
+    margin-top: 15px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.logo_name {
+    color: goldenrod;
+    font-size: 50px;
+    margin-left: 37%;
+    line-height: 100px;
+}
+
+.models {
+    color: white;
+    margin-left: 80%;
+    line-height: 100px;
+    position: absolute;
+    list-style: none;
+}
+
+.dealerships a {
+    color: white;
+    background-color:  transparent;
+    margin-left: 25%;
+    text-decoration: none;
+    font-family: arial;
+    line-height: 100px;
+    font-size: 15px;
+}
+
+.museum a {
+    color: white;
+    background-color: transparent;
+    margin-left: 10%;
+    text-decoration: none;
+    font-family: arial;
+    line-height: 100px;
+    font-size: 15px;
+
+}
+
+.store a {
+    color: white;
+    background-color: transparent;
+    margin-left: 18%;
+    text-decoration: none;
+    font-family: arial;
+    line-height: 100px;
+    font-size: 15px;
+}
+
+.AVENTADOR a {
+    color: white;
+    background-color: transparent;
+    margin-left: 66%;
+    text-decoration: none;
+    font-family: arial;
+    line-height: 100px;
+    font-size: 15px;
+}
+
+.HURACAN a {
+    color: white;
+    background-color: transparent;
+    margin-left: 76%;
+    text-decoration: none;
+    font-family: arial;
+    line-height: 100px;
+    font-size: 15px;
+}
+
+.URUS a {
+    color: white;
+    background-color: transparent;
+    margin-left: 84%;
+    text-decoration: none;
+    font-family: arial;
+    line-height: 100px;
+    font-size: 15px;
+    
+}
+
+.limited_series a {
+    color: white;
+    background-color: transparent;
+    
+    margin-left: 90%;
+    text-decoration: none;
+    font-family: arial;
+    line-height: 100px;
+    font-size: 15px;
+     
+}
+
+/* End Header Css */
+
+/* Start Menu Css */
+ 
+ 
+ 
+/* End Menu Css */
+.body1_text {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 300px;
+    font-family: arial;
+    position: absolute;
+    color: white;
+    margin-left: 100px;
+}
+
+.body1_text2 {
+    font-size: 100PX;
+    font-weight: bold;
+    margin-top: 350PX;
+    font-family: ARIAL;
+    position: absolute;
+    color: white;
+    margin-left: 100PX;
+}
+
+.body1_text3 {
+    font-size: 100PX;
+    font-weight: bold;
+    margin-top: 430PX;
+    font-family: ARIAL;
+    position: absolute;
+    color: white;
+    margin-left: 90PX;
+}
+
+.body2_text {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 900px;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 60%;
+}
+
+.body2_text2 {
+    font-size: 20px;
+    font-weight: 5px;
+    margin-top: 62%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 60%;
+}
+
+.body4_text {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 165%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 70%;
+}
+
+.body4_text2 {
+    font-size: 20px;
+    font-weight: 5px;
+    margin-top: 168%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 70%;
+}
+
+.body5_text {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 210%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 10%;
+
+}
+
+.body5_text2 {
+    font-size: 20px;
+    font-weight: 5px;
+    margin-top: 213%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 10%;
+}
+
+.scan {
+    width: 35%;
+    height: 165px;
+    position: absolute;
+    margin-top: 20%;
+}
+
+.body1_image {
+    width: 100%;
+    height: 800px;
+    position: absolute;
+}
+
+.body2_image2 {
+    width: 50%;
+    height: 450px;
+    position: absolute;
+    margin-top: 800px;
+}
+
+.body3_video {
+    width: 80%;
+    height: 800px;
+    margin-top: 1400px;
+    margin-left: 11%;
+}
+
+.body12_audio {
+    width: 25%;
+    height: 306px;
+    margin-top: 370%;
+    margin-left: 10px;
+    position: absolute;
+    margin-left: 5%;
+    background-color: black;
+}
+
+.body4_image4 {
+    width: 900px;
+    height: 600px;
+    margin-top: 152%;
+}
+
+.body5_image5 {
+    width: 500px;
+    height: 650px;
+    margin-top: 200%;
+    margin-left: 1000px;
+}
+
+.body6_image6 {
+    width: 30%;
+    height: 600px;
+    margin-top: 250%;
+
+}
+
+.body7_image7 {
+    width: 65%;
+    height: 600px;
+    margin-top: 250%;
+    margin-left: 35%;
+
+}
+
+.body8_image8 {
+    width: 55%;
+    height: 450px;
+    margin-top: 300%;
+
+}
+
+.body8_text {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 300%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 59%;
+}
+
+.body8_text2 {
+    font-size: 20px;
+    font-weight: 5px;
+    margin-top: 303%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 59%;
+}
+
+.body9_text {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 347%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 5%;
+
+}
+
+.body9_text2 {
+    font-size: 20px;
+    font-weight: 5px;
+    margin-top: 350%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 5%;
+}
+
+.body10_text {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 347%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 50%;
+}
+
+.body10_text2 {
+    font-size: 20px;
+    font-weight: 5px;
+    margin-top: 350%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 50%;
+}
+
+.body11_image {
+    margin-top: 355%;
+    height: 100px;
+    width: 100px;
+    margin-left: 5%;
+}
+
+.body11_text {
+    margin-top: 357%;
+    font-size: 20px;
+    font-weight: 5px;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 14%;
+
+}
+
+.body12_image {
+    margin-top: 371%;
+    height: 220px;
+    margin-left: 6%;
+    width: 350px;
+    position: absolute;
+
+}
+
+.body12_image2 {
+    margin-top: 369%;
+    height: 550px;
+    margin-left: 30%;
+    width: 1050px;
+    position: absolute;
+    background-color: pink;
+    position: absolute;
+}
+
+.body13_table {
+    margin-top: 410%;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.body14_image {
+    margin-top: 455%;
+    height: 500px;
+    width: 600px;
+    position: absolute;
+}
+
+.body14_text {
+    margin-top: 455%;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 50%;
+}
+
+.body14_text2 {
+    margin-top: 457%;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 50%;
+}
+
+.body14_text3 {
+    font-size: 20px;
+    font-weight: 5px;
+    margin-top: 460%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 50%;
+}
+
+.body14_text4 {
+    font-size: 20px;
+    font-weight: 5px;
+    margin-top: 468%;
+    font-family: arial;
+    position: absolute;
+    color: black;
+    margin-left: 50%;
+}
+
+.footer {
+    height: 45%;
+    width: 100%;
+    margin-top: 490%;
+    font-family: arial;
+    position: absolute;
+    background-color: black;
+
+}
+
+.COMPANY {
+    color: white;
+    margin-left: 5%;
+    line-height: 100px;
+    position: absolute;
+}
+
+.careers {
+    color: white;
+    margin-left: 13%;
+    line-height: 100PX;
+    position: absolute;
+}
+
+.CONTACT {
+    color: white;
+    margin-left: 22%;
+    line-height: 100PX;
+    position: absolute;
+}
+
+.MEDIA {
+    color: white;
+    margin-left: 33%;
+    line-height: 100PX;
+    position: absolute;
+}
+
+.PRIVACY {
+    color: white;
+    margin-left: 45%;
+    line-height: 100PX;
+    position: absolute;
+}
+
+.COOKIE {
+    color: white;
+    margin-left: 58%;
+    line-height: 100PX;
+    position: absolute;
+}
+
+.SITEMAP {
+    color: white;
+    margin-left: 71%;
+    line-height: 100PX;
+    position: absolute;
+}
+
+.instagram {
+    width: 50px;
+    height: 50px;
+    margin-left: 80%;
+    margin-top: 20px;
+}
+
+.facebook {
+    width: 50px;
+    height: 50px;
+    margin-left: 85%;
+    margin-top: 20px;
+}
+
+.youtub {
+    width: 50px;
+    height: 50px;
+    margin-left: 90%;
+    margin-top: 20px;
+}
+
+.linkdin {
+    width: 50px;
+    height: 50px;
+    margin-left: 95%;
+    margin-top: 20px;
+}
+
+.description {
+    color: white;
+    font-size: 15px;
+    margin-top: 130px;
+    margin-left: 4%;
+
+}
+
+.description2 {
+    color: white;
+    font-size: 15px;
+    margin-top: 80px;
+    margin-left: 4%;
+}
+
+.models {
+    margin-left: -45px;
+    margin-top: -35px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
